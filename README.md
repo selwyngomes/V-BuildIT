@@ -42,6 +42,6 @@ This Computer Building E-commerce Website is designed to help everyone, from tec
 ## How to Run the Project
 
 1. Clone the repository:
-   ```bash
-https://github.com/selwyngomes/V-BuildIT.git
+```bash
+  https://github.com/selwyngomes/V-BuildIT.git
 ```
