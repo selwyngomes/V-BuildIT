@@ -1,7 +1,5 @@
 # V-BuildIT - E-commerce Computer Solutions Hub
 
-## Project Overview
-
 The aim of this project is to develop an E-commerce Computer Solutions Hub / Website that helps PC enthusiasts find a one-stop shop for everything they need. This system allows users to choose their own custom parts through the online store, purchase pre-built computers that meet their requirements at reasonable rates, and benefit from lifetime after-sales services.
 
 ## Key Features
