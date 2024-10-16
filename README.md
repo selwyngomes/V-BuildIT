@@ -43,5 +43,4 @@ This Computer Building E-commerce Website is designed to help everyone, from tec
 
 1. Clone the repository:
    ```bash
-   https://github.com/selwyngomes/V-BuildIT.git
-```
+https://github.com/selwyngomes/V-BuildIT.git
