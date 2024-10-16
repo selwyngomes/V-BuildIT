@@ -49,7 +49,7 @@ This Computer Building E-commerce Website is designed to help everyone, from tec
 
 - Contributions are always welcome!
 
-- If you have suggestions for improving the script, feel free to create a pull request or open an issue on GitHub.
+- If you have suggestions for improving the website, feel free to create a pull request or open an issue on GitHub.
 
 ## License
 
