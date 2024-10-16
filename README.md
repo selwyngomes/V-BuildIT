@@ -45,3 +45,14 @@ This Computer Building E-commerce Website is designed to help everyone, from tec
 ```bash
   https://github.com/selwyngomes/V-BuildIT.git
 ```
+## Contributing
+
+- Contributions are always welcome!
+
+- If you have suggestions for improving the script, feel free to create a pull request or open an issue on GitHub.
+
+## License
+
+This project is licensed under the MIT License.
+
+[MIT](https://choosealicense.com/licenses/mit/)
